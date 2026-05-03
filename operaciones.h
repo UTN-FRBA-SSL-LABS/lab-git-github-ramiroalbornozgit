@@ -8,7 +8,7 @@
  */
 
 /* sumar: devuelve a + b */
-int sumar(int a, int b);
+int incrementar(int a, int b);
 
 /* restar: devuelve a - b */
 int restar(int a, int b);
